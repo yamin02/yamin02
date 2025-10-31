@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yamin02
 - 👀 I’m interested in building products.
-- 🌱 I’m currently learning AI for finding optimum investment opportunities
+- 🌱 I’m currently working in combustion modelling 
 - 💞️ I’m looking to collaborate on developing something cool
 - 📫 How to reach me https://twitter.com/HoqueYaminul
 
